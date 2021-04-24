@@ -6,6 +6,6 @@
    - /benchmarks/bench_tree.py 
    - /benchmarks/bench_plot_lasso_path.py
 
-in which I modified only some simple loops. This was done to increase my dataset entries. 
+  in which I modified only some simple loops. This was done to increase my dataset entries. 
 
 That's all the changes I made :) 
