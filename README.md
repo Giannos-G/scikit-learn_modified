@@ -1,2 +1,2 @@
 # scikit-learn_modified
-This is the repo of a modified version of scikit-learn which is used to benchmark every example and benchmark included in the original repo. 
+This is the repo of a modified version of scikit-learn which is used to benchmark every example and benchmark included in the original repo. I commented all of the *plt.show()* commands to minimize human intreaction with each script so that my energy, time and memory benchmarking will be more accurate. That's all the changes I made :) 
